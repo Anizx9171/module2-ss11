@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "user_name": "Nguyễn Văn A",
+      "Gender": 0,
+      "address": "Nhà đá",
+      "email": "ani@gmail.com",
+      "password": "2134567",
+      "dateOfBith": "12/12/2002"
+    },
+    {
+      "id": 2,
+      "user_name": "Nguyễn Văn A",
+      "Gender": 1,
+      "address": "Nhà đá",
+      "email": "ani@gmail.com",
+      "password": "2134567",
+      "dateOfBith": "12/12/2002"
+    },
+    {
+      "id": 3,
+      "user_name": "Nguyễn Văn A",
+      "Gender": 1,
+      "address": "Nhà đá",
+      "email": "ani@gmail.com",
+      "password": "2134567",
+      "dateOfBith": "12/12/2002"
+    },
+    {
+      "user_name": "Nguyễn Văn A",
+      "Gender": 0,
+      "address": "Nhà đá",
+      "email": "ani@gmail.com",
+      "password": "12345671234567",
+      "dateOfBith": "12/12/2002",
+      "id": 4
+    },
+    {
+      "user_name": "Nguyễn Văn A",
+      "Gender": 0,
+      "address": "Nhà đá",
+      "email": "ani@gmail.com",
+      "password": "12345671234567",
+      "dateOfBith": "12/12/2002",
+      "id": 5
+    },
+    {
+      "email": "ananeqweaneqwei@gmail.com",
+      "password": "$2a$10$Jmod8L1/DzKGQOjx7BtmOewnsy1Y/Smq6tYzY4oBZr0vwXM0WRJZG",
+      "user_name": "Nguyễn Văn A",
+      "Gender": 0,
+      "address": "Nhà đá",
+      "dateOfBith": "12/12/2002",
+      "id": 9
+    }
+  ],
+  "products": [
+    {
+      "product_name": "co trang",
+      "price": 202000,
+      "from": "France",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "product_name": "Cam",
+      "price": 1200000,
+      "from": "China"
+    },
+    {
+      "product_name": "Đi ngủ",
+      "price": "1234568",
+      "from": "Tầu",
+      "id": 6
+    },
+    {
+      "product_name": "Bưởi 5 gậy",
+      "price": "986789",
+      "from": "VBN",
+      "id": 7
+    }
+  ]
+}
